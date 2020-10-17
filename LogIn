@@ -1,0 +1,12 @@
+Check whether your Email ID field accepts only alphabets, numeric, special characters including dot.
+Verify if a user cannot login with a valid username and an invalid password.
+Verify the login page for both, when the field is blank and Submit button is clicked.
+Check the data in password field is in bullet signs.
+Verify the ‘Forgot Password’ functionality.
+Check if a user is able to login with a new password only after changed the password.
+Verify that message is displayed on filling incorrect details "Incorrect emailID or password. Please try again."
+Verify that correct company logo is displayed on the LogIn page.
+Verify that Sign Up functionality should be displayed for the New User.
+Verify that upon entering the valid details in the fields, User should get navigate to the desired page.
+Verify the messages displayed for each mandatory field.
+Verify if the login page allows to log in simultaneously with different credentials in a different browser.
